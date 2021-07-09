@@ -1,0 +1,2 @@
+(this["webpackJsonphuddle-landing-page"]=this["webpackJsonphuddle-landing-page"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var i=t(1),c=t.n(i),d=t(3),r=t.n(d),o=t(0);function l(){return Object(o.jsx)("div",{style:{textAlign:"center",marginTop:"20x",fontSize:"25px"},children:"~ Hello world! ~"})}t(9);r.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(l,{})}),document.getElementById("root"))},9:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.48720512.chunk.js.map
