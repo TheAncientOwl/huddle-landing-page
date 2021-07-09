@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://theancientowl.github.io/huddle-landing-page]
+- Live Site URL: [https://theancientowl.github.io/huddle-landing-page/]
 
 ### My Process
 
