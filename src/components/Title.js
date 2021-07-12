@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import Breakpoints from '../Breakpoints';
 
 const Container = styled.div`
   color: white;
@@ -11,6 +12,11 @@ const Container = styled.div`
 
   margin: 2.5em auto 0 auto;
   text-align: center;
+
+  @media (min-width: ${Breakpoints.mobile}) {
+    text-align: left;
+    margin: 0;
+  }
 `;
 
 export default function Title() {

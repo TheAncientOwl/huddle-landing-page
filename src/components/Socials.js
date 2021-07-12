@@ -1,10 +1,17 @@
 import styled from 'styled-components';
 import { GrFacebookOption, GrTwitter, GrInstagram } from 'react-icons/gr';
+import Breakpoints from '../Breakpoints';
 
 const Container = styled.div`
   display: flex;
   justify-content: center;
   margin-top: 6em;
+
+  @media (min-width: ${Breakpoints.mobile}) {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+  }
 `;
 
 const Icon = styled.a`
