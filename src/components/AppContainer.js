@@ -8,6 +8,7 @@ const AppContainer = styled.div`
   background-image: url('${MobileBgSrc}');
   background-repeat: no-repeat;
   background-color: ${Colors.violet};
+  background-size: 100%;
 
   padding: 2em;
 `;
