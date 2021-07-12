@@ -9,7 +9,7 @@ const AppContainer = styled.div`
   background-repeat: no-repeat;
   background-color: ${Colors.violet};
 
-  padding: 1.5em;
+  padding: 2em;
 `;
 
 export default AppContainer;

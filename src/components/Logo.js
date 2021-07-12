@@ -2,7 +2,8 @@ import styled from 'styled-components';
 import LogoSrc from '../images/logo.svg';
 
 const Image = styled.img`
-  width: 40vw;
+  display: block;
+  width: 35vw;
   height: auto;
 `;
 
